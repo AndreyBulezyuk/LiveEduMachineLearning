@@ -3,7 +3,13 @@
 Anaconda
 https://www.continuum.io/downloads
 
-PyCharm IDE
+Spyder IDE (My Fav)
+https://github.com/spyder-ide/spyder
+
+Jupyter (Interactive Python Process in your Browser)
+https://jupyter.org/
+
+PyCharm IDE (Community Edition is free)
 https://www.jetbrains.com/pycharm/download/#section=windows
 
 Sklearn
