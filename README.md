@@ -1,5 +1,11 @@
 # LiveEduMachineLearning
 
+Extremely useful link full of Cheat Sheets
+https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5
+
+Collection of open Datasets
+http://www.kdnuggets.com/datasets/government-local-public.html
+
 Anaconda
 https://www.continuum.io/downloads
 
