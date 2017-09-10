@@ -26,3 +26,6 @@ https://keras.io/
 
 Tensorflow
 https://www.tensorflow.org/
+
+Kaggle
+https://www.kaggle.com
